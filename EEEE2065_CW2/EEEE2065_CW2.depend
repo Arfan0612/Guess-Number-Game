@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1669475199 source:c:\users\arfan danial\onedrive - university of nottingham malaysia\year 2\software engineering\eeee2065_cw2\human_guess.cpp
+	<iostream>
+	"human_guess.h"
+
+1669624722 source:c:\users\arfan danial\onedrive - university of nottingham malaysia\year 2\software engineering\eeee2065_cw2\main.cpp
+	"guess.h"
+
+1669399576 c:\users\arfan danial\onedrive - university of nottingham malaysia\year 2\software engineering\eeee2065_cw2\human_guess.h
+	<time.h>
+	<math.h>
+
+1669622583 source:c:\users\arfan danial\onedrive - university of nottingham malaysia\year 2\software engineering\eeee2065_cw2\modes.cpp
+
+1669554006 c:\users\arfan danial\onedrive - university of nottingham malaysia\year 2\software engineering\eeee2065_cw2\modes.h
+
+1669628371 source:c:\users\arfan danial\onedrive - university of nottingham malaysia\year 2\software engineering\eeee2065_cw2\guess.cpp
+	"guess.h"
+
+1669627149 c:\users\arfan danial\onedrive - university of nottingham malaysia\year 2\software engineering\eeee2065_cw2\guess.h
+	<time.h>
+	<math.h>
+	<iomanip>
+	<fstream>
+	<iostream>
+
